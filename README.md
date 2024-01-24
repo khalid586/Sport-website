@@ -1,4 +1,4 @@
-[Live website](khalid586.github.io/Sports-website/)
+i[Live website](https://khalid586.github.io/Sports-website/)
 
 # Sections
 - [Banner](#banner)
