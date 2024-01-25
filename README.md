@@ -8,4 +8,4 @@
 - Footer 
 
 ### Banner 
-<img src = "images/Banner%20section.png">
+![Banner](Images/Banner%20section.png)
