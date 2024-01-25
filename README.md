@@ -1,4 +1,4 @@
-[Live website](khalid586.github.io/Sports-website/)
+[Live website](https://khalid586.github.io/Sports-website/)
 
 # Sections
 - [Banner](#banner)
@@ -8,4 +8,4 @@
 - Footer 
 
 ### Banner 
-![](images/Banner%20section.png)
+<img src = "images/Banner%20section.png">
